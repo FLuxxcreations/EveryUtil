@@ -1,2 +1,2 @@
-# EveryUtil
-The GitHub Repository for the EveryUtil Discord Bot
+# ModzBott
+The GitHub Repository for the ModzBott Discord Bot
